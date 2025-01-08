@@ -1,0 +1,50 @@
+#logo{
+    width: 80px;
+    height: 80px;
+}
+#contenedorLogo{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+#barraNav{
+    height: 80px;
+    display: flex;
+    Justify-content: center;
+}
+
+#logo1{
+    width: 100PX;
+    height: 10px;
+
+}
+
+.REGISTRATE{
+    color: rgb(7, 33, 44);
+    align-content: center;
+}
+.menu{
+   
+    text-align:center ;
+    color: blue
+    
+
+}
+.imagenesa{
+    display: flex;
+    text-align: center;
+    width: 1200 px;
+   height: 1000px;}
+   
+.imagen2{
+    display: flex;
+    text-align: center;
+    width: 350 px;
+   height: 450px;}
+
+   .imagenes{
+    display: flex;
+    text-align: center;
+    width: 300 px;
+   height: 300px;}

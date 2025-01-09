@@ -1,0 +1,98 @@
+
+#encabezado{
+
+    background-color:  #fad7a0 ;
+}
+
+#logo{
+    width: 80px;
+    height: 80px;
+    border-radius: 30px;
+}
+
+
+
+#contenedorLogo{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+   gap: 20px;
+padding: 20px;
+}
+
+#barraNav{
+    height: 80px;
+    display: flex;
+    Justify-content: center;
+    margin: 4px;
+    gap: 20px;
+}
+
+.tituloDos{
+font-family: 'Courier New', Courier, monospace;
+font-size: 60px;
+text-align: center;
+
+
+}
+#logo1{
+    width: 100PX;
+    height: 3opx;
+    border-radius: 20px;
+   margin-right: 10px;
+
+
+}
+.frase{
+    text-align: center;
+}
+.menu{
+   
+    text-align:center ;
+    color: rgb(7, 7, 7)
+    
+
+}
+.imagenesa{
+    display: flex;
+ margin-right: 50px;
+    width: 1100 px;
+   height: 960px;
+   
+}
+.contenedor{
+    justify-content: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.div1{
+    flex-grow: 1;
+    border-color: black;
+}
+
+.imagen2{
+    display: flex;
+    width: 350 px;
+   height: 450px;
+  
+   
+}
+
+
+   .imagenes{
+    display: flex;
+    width: 300px;
+   height: 300px;
+  
+  
+   }
+   
+   .ADdress{
+    text-align: center;
+    color: rgb(11, 11, 11);
+    background-color: #fad7a0;
+}
